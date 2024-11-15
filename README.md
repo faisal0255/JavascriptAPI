@@ -1,2 +1,2 @@
 # JavascriptAPI
-College API code
+College API code.
